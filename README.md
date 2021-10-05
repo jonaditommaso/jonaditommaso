@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jona 👋
+
+![profilebanner](https://user-images.githubusercontent.com/74380483/136100759-c86c5d97-7259-4d8f-af4d-f65821b88a68.png)
 
 <!--
 **jonaditommaso/jonaditommaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
