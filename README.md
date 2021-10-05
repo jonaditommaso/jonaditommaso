@@ -14,7 +14,13 @@ const developer = {
 }
 ```
 
-#### Check my [portfolio](https://portfolio-jonacampos.vercel.app/)!
+#### 💻 Check my [portfolio](https://portfolio-jonacampos.vercel.app/)!
+
+##### These are my projects. I keep working on them 😄🙌🏼:
+![Jones Magazine](https://jones-magazine.vercel.app/)
+![Pokemon Search](https://pokemon-search-game-jonaditommaso.vercel.app/)
+![Amazon Clone](https://amazon-own-implementation-jonaditommaso.vercel.app/)
+![Covid Real Time](https://covid19-real-time-monitoring-jonaditommaso.vercel.app/)
 <!--
 **jonaditommaso/jonaditommaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
