@@ -14,7 +14,7 @@ const developer = {
 }
 ```
 ![separator](https://user-images.githubusercontent.com/74380483/136912065-e068e77c-17bc-4d5a-8af3-7d8f1bf07de7.png)
-
+<!--
 #### 💻 Check my [portfolio](https://portfolio-jonacampos.vercel.app/)!
 
 ##### These are my projects. I keep working on them 😄🙌🏼:
@@ -22,7 +22,7 @@ const developer = {
 - [Pokemon Search](https://pokemon-search-game-jonaditommaso.vercel.app/)
 - [Amazon Clone](https://amazon-own-implementation-jonaditommaso.vercel.app/)
 - [Covid Real Time](https://covid19-real-time-monitoring-jonaditommaso.vercel.app/)
-
+-->
 ![separator](https://user-images.githubusercontent.com/74380483/136912065-e068e77c-17bc-4d5a-8af3-7d8f1bf07de7.png)
 <!--
 **jonaditommaso/jonaditommaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
