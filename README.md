@@ -10,7 +10,7 @@ const developer = {
   nickname: 'Jona',
   code: [Javascript, Typescript],
   stack: MERN,
-  tools: [Redux, GraphQL, Jest, Sass]
+  tools: [Redux, Jest, SQL, Tailwind CSS]
 }
 ```
 ![separator](https://user-images.githubusercontent.com/74380483/136912065-e068e77c-17bc-4d5a-8af3-7d8f1bf07de7.png)
