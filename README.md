@@ -29,7 +29,7 @@
 - ⚡ Ex founder
 
 
-#### 💼 Check my [portfolio](https://portfolio-jonacampos.vercel.app/)!
+#### 💼 Check my [portfolio](https://jonaditommaso-portfolio.vercel.app/)!
 <!-- ![profilebanner](https://user-images.githubusercontent.com/74380483/136100759-c86c5d97-7259-4d8f-af4d-f65821b88a68.png) -->
 <!--const MERN = [MongoDB, Express, React, Node];
 
