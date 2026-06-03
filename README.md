@@ -16,20 +16,21 @@
 ![Github](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 🚀 What I'm Building
-- 🏢 Currently working at Retail Reply, gaining experience, growing and having a good time in the process.
-- 🧪 Currently working on [Gestionate](https://jonaditommaso-gestionate.vercel.app/), a team productivity platform — all-in-one workspace with Kanban, internal chat, accounting, meet integrations & more.
+### 🚀 What I'm Up To
+- 🏢 Previously at Retail Reply.
+- 🧪 Evolving [Gestionate](https://jonaditommaso-gestionate.vercel.app/), a team productivity platform — all-in-one workspace: CRM with sales pipeline, task management with Kanban, internal messaging, financial module, AI integrations & more.
+- 🌱 Expanding my backend knowledge with Go
 
 <!--![separator](https://user-images.githubusercontent.com/74380483/136912065-e068e77c-17bc-4d5a-8af3-7d8f1bf07de7.png)-->
 ---
-- ⌨️ 4+ years developing great web experiences
+- ⌨️ 5+ years developing great web experiences
 - 🎨 UI/UX & Performance enthusiast
 - 🪜 Scalability focus
 - 💡 Product mind
 - ⚡ Ex founder
 
 
-#### 💼 Check my [portfolio](https://jonaditommaso-portfolio.vercel.app/)!
+<!-- #### 💼 Check my [portfolio](https://jonaditommaso-portfolio.vercel.app/)!-->
 <!-- ![profilebanner](https://user-images.githubusercontent.com/74380483/136100759-c86c5d97-7259-4d8f-af4d-f65821b88a68.png) -->
 <!--const MERN = [MongoDB, Express, React, Node];
 
